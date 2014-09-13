@@ -1,0 +1,14 @@
+.masthead {
+  background-image: url("http://artpaintingartist.org/wp-content/uploads/2014/03/George-Washington-dunking-on-dictators.jpg");
+  background-size: cover;
+}
+
+.masthead {
+  /* Layout Declrations */
+  padding: 6em 0;
+  /* Appearance Declrations */
+  /*background-image: url('http://i.imgur.com/lvXbgcg.jpg');*/
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  border-top: solid 1em #FFCF33;
+}
